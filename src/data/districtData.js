@@ -1,9 +1,9 @@
 export const districtData = [
-  { district: "Agra", stress: 82, trend: "Declining", depth: 13, dominant: ["Wheat", "Mustard", "Paddy"] },
-  { district: "Ghaziabad", stress: 128, trend: "Declining", depth: 15, dominant: ["Sugarcane", "Paddy"] },
-  { district: "Meerut", stress: 105, trend: "Declining", depth: 14, dominant: ["Sugarcane", "Paddy"] },
-  { district: "Lucknow", stress: 70, trend: "Stable", depth: 8, dominant: ["Paddy", "Wheat"] },
-  { district: "Varanasi", stress: 55, trend: "Stable", depth: 7, dominant: ["Paddy", "Wheat", "Pulses"] },
+  { district: "Agra", stress: 117, trend: "Declining", depth: 13, dominant: ["Wheat", "Mustard", "Paddy"] },
+  { district: "Ghaziabad", stress: 114, trend: "Declining", depth: 15, dominant: ["Sugarcane", "Paddy"] },
+  { district: "Meerut", stress: 78, trend: "Declining", depth: 14, dominant: ["Sugarcane", "Paddy"] },
+  { district: "Lucknow", stress: 66, trend: "Stable", depth: 8, dominant: ["Paddy", "Wheat"] },
+  { district: "Varanasi", stress: 91, trend: "Stable", depth: 7, dominant: ["Paddy", "Wheat", "Pulses"] },
 ]
 
 export function getRiskCategory(stress) {
