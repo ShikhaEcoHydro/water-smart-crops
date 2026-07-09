@@ -4,7 +4,7 @@ function Landing() {
     const navigate = useNavigate()
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-blue-50 to-green-50 px-6 text-center">
-      <h1 className="text-5xl font-bold text-blue-800 mb-2">AquaCrop Insight</h1>
+      <h1 className="text-5xl font-bold text-blue-800 mb-2">Water Smart Crops</h1>
       <p className="text-xl text-green-700 mb-6">Know Your Crops, Save Your Water</p>
       <p className="text-gray-600 max-w-xl mb-8">
         Explore how crop choices affect groundwater and discover sustainable farming pathways.

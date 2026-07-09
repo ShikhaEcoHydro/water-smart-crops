@@ -6,7 +6,7 @@ function FinalPage() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-blue-50 to-green-50 px-6 text-center">
-      <h1 className="text-4xl font-bold text-blue-800 mb-2">AquaCrop Insight</h1>
+      <h1 className="text-4xl font-bold text-blue-800 mb-2">Water Smart Crops</h1>
       <p className="text-lg text-green-700 mb-8">Know Your Crops, Save Your Water</p>
 
       <p className="text-gray-700 max-w-md mb-10 text-lg">
